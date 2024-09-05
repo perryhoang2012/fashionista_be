@@ -1,0 +1,445 @@
+{
+  "categories": [
+    {
+      "name": "Clothing",
+      "items": 109,
+      "images": [
+        "https://images.pexels.com/photos/631142/pexels-photo-631142.jpeg",
+        "https://images.pexels.com/photos/994517/pexels-photo-994517.jpeg",
+        "https://images.pexels.com/photos/298864/pexels-photo-298864.jpeg",
+        "https://images.pexels.com/photos/994517/pexels-photo-994517.jpeg"
+      ]
+    },
+    {
+      "name": "Shoes",
+      "items": 53000,
+      "images": [
+        "https://images.pexels.com/photos/19090/pexels-photo.jpg",
+        "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg",
+        "https://images.pexels.com/photos/298864/pexels-photo-298864.jpeg",
+        "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg"
+      ]
+    },
+    {
+      "name": "Bags",
+      "items": 87,
+      "images": [
+        "https://images.pexels.com/photos/631178/pexels-photo-631178.jpeg",
+        "https://images.pexels.com/photos/291762/pexels-photo-291762.jpeg",
+        "https://images.pexels.com/photos/631178/pexels-photo-631178.jpeg",
+        "https://images.pexels.com/photos/3913043/pexels-photo-3913043.jpeg"
+      ]
+    },
+    {
+      "name": "Lingerie",
+      "items": 218,
+      "images": [
+        "https://images.pexels.com/photos/301929/pexels-photo-301929.jpeg",
+        "https://images.pexels.com/photos/298864/pexels-photo-298864.jpeg",
+        "https://images.pexels.com/photos/301929/pexels-photo-301929.jpeg",
+        "https://images.pexels.com/photos/301929/pexels-photo-301929.jpeg"
+      ]
+    },
+    {
+      "name": "Watch",
+      "items": 218,
+      "images": [
+        "https://images.pexels.com/photos/277319/pexels-photo-277319.jpeg",
+        "https://images.pexels.com/photos/53160/pexels-photo-53160.jpeg",
+        "https://images.pexels.com/photos/1257797/pexels-photo-1257797.jpeg",
+        "https://images.pexels.com/photos/277319/pexels-photo-277319.jpeg"
+      ]
+    },
+    {
+      "name": "Hoodies",
+      "items": 218,
+      "images": [
+        "https://images.pexels.com/photos/775281/pexels-photo-775281.jpeg",
+        "https://images.pexels.com/photos/756451/pexels-photo-756451.jpeg",
+        "https://images.pexels.com/photos/375692/pexels-photo-375692.jpeg",
+        "https://images.pexels.com/photos/1238963/pexels-photo-1238963.jpeg"
+      ]
+    }
+  ],
+
+  "products": [
+    {
+      "name": "White Blouse",
+      "description": "Stylish white blouse with long sleeves.",
+      "price": 17.5,
+      "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+    },
+    {
+      "name": "Striped Shirt and Skirt",
+      "description": "Fashionable striped shirt paired with a colorful skirt.",
+      "price": 25.2,
+      "image": "https://images.pexels.com/photos/998991/pexels-photo-998991.jpeg"
+    },
+    {
+      "name": "Casual Pink Outfit",
+      "description": "Pink top and white pants, perfect for shopping.",
+      "price": 30,
+      "image": "https://images.pexels.com/photos/5632371/pexels-photo-5632371.jpeg"
+    },
+    {
+      "name": "Beige T-Shirt",
+      "description": "Simple and comfortable beige T-shirt.",
+      "price": 12,
+      "image": "https://images.pexels.com/photos/7697300/pexels-photo-7697300.jpeg"
+    },
+    {
+      "name": "Summer Hat Outfit",
+      "description": "Casual summer outfit with a wide-brimmed hat.",
+      "price": 20,
+      "image": "https://images.pexels.com/photos/2887767/pexels-photo-2887767.jpeg"
+    },
+    {
+      "name": "Pink High Heels",
+      "description": "Stylish pink high heels for a night out.",
+      "price": 40,
+      "image": "https://images.pexels.com/photos/1586298/pexels-photo-1586298.jpeg"
+    },
+    {
+      "name": "Black Leather Jacket",
+      "description": "Cool black leather jacket.",
+      "price": 50,
+      "image": "https://images.pexels.com/photos/865711/pexels-photo-865711.jpeg"
+    },
+    {
+      "name": "Blue Denim Jacket",
+      "description": "Classic blue denim jacket.",
+      "price": 45,
+      "image": "https://images.pexels.com/photos/1027130/pexels-photo-1027130.jpeg"
+    },
+    {
+      "name": "Red Maxi Dress",
+      "description": "Flowy red maxi dress for summer.",
+      "price": 35,
+      "image": "https://images.pexels.com/photos/2100063/pexels-photo-2100063.jpeg"
+    },
+    {
+      "name": "Yellow Summer Dress",
+      "description": "Bright yellow summer dress with floral prints.",
+      "price": 30,
+      "image": "https://images.pexels.com/photos/3246589/pexels-photo-3246589.jpeg"
+    },
+    {
+      "name": "Denim Shorts",
+      "description": "Casual denim shorts.",
+      "price": 22.1,
+      "image": "https://images.pexels.com/photos/2928540/pexels-photo-2928540.jpeg"
+    },
+    {
+      "name": "White Sneakers",
+      "description": "Comfortable white sneakers for daily use.",
+      "price": 55,
+      "image": "https://images.pexels.com/photos/19090/pexels-photo.jpg"
+    },
+    {
+      "name": "Blue Striped Shirt",
+      "description": "Elegant blue striped shirt for a formal look.",
+      "price": 25,
+      "image": "https://images.pexels.com/photos/994517/pexels-photo-994517.jpeg"
+    },
+    {
+      "name": "Brown Leather Belt",
+      "description": "High-quality brown leather belt.",
+      "price": 15,
+      "image": "https://images.pexels.com/photos/47085/pexels-photo-47085.jpeg"
+    },
+    {
+      "name": "Black Formal Pants",
+      "description": "Tailored black pants for office wear.",
+      "price": 40,
+      "image": "https://images.pexels.com/photos/298864/pexels-photo-298864.jpeg"
+    },
+    {
+      "name": "Blue Jeans",
+      "description": "Comfortable blue jeans for everyday use.",
+      "price": 35,
+      "image": "https://images.pexels.com/photos/631142/pexels-photo-631142.jpeg"
+    },
+    {
+      "name": "Gray Hoodie",
+      "description": "Warm gray hoodie for casual wear.",
+      "price": 28,
+      "image": "https://images.pexels.com/photos/775281/pexels-photo-775281.jpeg"
+    },
+    {
+      "name": "Black Sunglasses",
+      "description": "Stylish black sunglasses for sun protection.",
+      "price": 18,
+      "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+    },
+    {
+      "name": "Brown Leather Handbag",
+      "description": "Luxury brown leather handbag.",
+      "price": 100,
+      "image": "https://images.pexels.com/photos/58592/pexels-photo-58592.jpeg"
+    },
+    {
+      "name": "White Lace Dress",
+      "description": "Elegant white lace dress for formal events.",
+      "price": 60,
+      "image": "https://images.pexels.com/photos/1587046/pexels-photo-1587046.jpeg"
+    },
+    {
+      "name": "Black Formal Shoes",
+      "description": "Classic black shoes for formal occasions.",
+      "price": 75,
+      "image": "https://images.pexels.com/photos/404168/pexels-photo-404168.jpeg"
+    },
+    {
+      "name": "Pink Sweater",
+      "description": "Cozy pink sweater for colder days.",
+      "price": 25,
+      "image": "https://images.pexels.com/photos/1721551/pexels-photo-1721551.jpeg"
+    },
+    {
+      "name": "White Leather Boots",
+      "description": "Elegant white leather boots.",
+      "price": 85,
+      "image": "https://images.pexels.com/photos/2928540/pexels-photo-2928540.jpeg"
+    },
+    {
+      "name": "Red Plaid Skirt",
+      "description": "Trendy red plaid skirt.",
+      "price": 30,
+      "image": "https://images.pexels.com/photos/298864/pexels-photo-298864.jpeg"
+    },
+    {
+      "name": "Black Blazer",
+      "description": "Professional black blazer for office.",
+      "price": 45,
+      "image": "https://images.pexels.com/photos/1055691/pexels-photo-1055691.jpeg"
+    },
+    {
+      "name": "Orange T-Shirt",
+      "description": "Bright orange t-shirt for casual outings.",
+      "price": 15,
+      "image": "https://images.pexels.com/photos/1027130/pexels-photo-1027130.jpeg"
+    },
+    {
+      "name": "Blue Midi Dress",
+      "description": "Classy blue midi dress with a modern cut.",
+      "price": 35,
+      "image": "https://images.pexels.com/photos/3246589/pexels-photo-3246589.jpeg"
+    },
+    {
+      "name": "Leather Sandals",
+      "description": "Comfortable leather sandals for summer.",
+      "price": 30,
+      "image": "https://images.pexels.com/photos/6598901/pexels-photo-6598901.jpeg"
+    },
+    {
+      "name": "Black Fedora Hat",
+      "description": "Stylish black fedora hat for an elegant look.",
+      "price": 20,
+      "image": "https://images.pexels.com/photos/1852936/pexels-photo-1852936.jpeg"
+    },
+    {
+      "name": "Brown Leather Jacket",
+      "description": "Stylish brown leather jacket for casual outings.",
+      "price": 50,
+      "image": "https://images.pexels.com/photos/58592/pexels-photo-58592.jpeg"
+    },
+    {
+      "name": "White Summer Dress",
+      "description": "Flowy white summer dress with a boho vibe.",
+      "price": 40,
+      "image": "https://images.pexels.com/photos/2100063/pexels-photo-2100063.jpeg"
+    },
+    {
+      "name": "Gray Sweatpants",
+      "description": "Comfortable gray sweatpants for lounging.",
+      "price": 20,
+      "image": "https://images.pexels.com/photos/775281/pexels-photo-775281.jpeg"
+    },
+    {
+      "name": "Red Sneakers",
+      "description": "Casual red sneakers for a bold look.",
+      "price": 55,
+      "image": "https://images.pexels.com/photos/3311077/pexels-photo-3311077.jpeg"
+    },
+    {
+      "name": "Brown Leather Boots",
+      "description": "Stylish brown leather boots perfect for winter.",
+      "price": 75,
+      "image": "https://images.pexels.com/photos/569886/pexels-photo-569886.jpeg"
+    },
+    {
+      "name": "White Cotton T-Shirt",
+      "description": "Simple and breathable white cotton t-shirt.",
+      "price": 10,
+      "image": "https://images.pexels.com/photos/1002640/pexels-photo-1002640.jpeg"
+    },
+    {
+      "name": "Yellow Floral Dress",
+      "description": "Bright yellow floral dress for summer vibes.",
+      "price": 35,
+      "image": "https://images.pexels.com/photos/1585288/pexels-photo-1585288.jpeg"
+    },
+    {
+      "name": "Black Denim Jeans",
+      "description": "Classic black denim jeans for everyday wear.",
+      "price": 40,
+      "image": "https://images.pexels.com/photos/631142/pexels-photo-631142.jpeg"
+    },
+    {
+      "name": "Blue Oversized Sweater",
+      "description": "Cozy oversized blue sweater for cold days.",
+      "price": 28,
+      "image": "https://images.pexels.com/photos/1082523/pexels-photo-1082523.jpeg"
+    },
+    {
+      "name": "Red Blazer",
+      "description": "Bold red blazer for formal occasions.",
+      "price": 55,
+      "image": "https://images.pexels.com/photos/838664/pexels-photo-838664.jpeg"
+    },
+    {
+      "name": "White Canvas Shoes",
+      "description": "Comfortable white canvas shoes for casual wear.",
+      "price": 30,
+      "image": "https://images.pexels.com/photos/1261420/pexels-photo-1261420.jpeg"
+    },
+    {
+      "name": "Black Wool Scarf",
+      "description": "Warm and stylish black wool scarf.",
+      "price": 20,
+      "image": "https://images.pexels.com/photos/412462/pexels-photo-412462.jpeg"
+    },
+    {
+      "name": "Green Parka Jacket",
+      "description": "Military-inspired green parka jacket.",
+      "price": 60,
+      "image": "https://images.pexels.com/photos/712514/pexels-photo-712514.jpeg"
+    },
+    {
+      "name": "Pink Polka Dot Skirt",
+      "description": "Cute pink skirt with polka dot pattern.",
+      "price": 25,
+      "image": "https://images.pexels.com/photos/3214112/pexels-photo-3214112.jpeg"
+    },
+    {
+      "name": "Brown Leather Gloves",
+      "description": "Elegant brown leather gloves for winter.",
+      "price": 40,
+      "image": "https://images.pexels.com/photos/848617/pexels-photo-848617.jpeg"
+    },
+    {
+      "name": "Black Maxi Skirt",
+      "description": "Chic black maxi skirt for evening outings.",
+      "price": 35,
+      "image": "https://images.pexels.com/photos/2100063/pexels-photo-2100063.jpeg"
+    },
+    {
+      "name": "Navy Blue Beanie",
+      "description": "Soft and warm navy blue beanie.",
+      "price": 18,
+      "image": "https://images.pexels.com/photos/3201924/pexels-photo-3201924.jpeg"
+    },
+    {
+      "name": "White Sneakers with Red Stripes",
+      "description": "Trendy white sneakers with red stripe design.",
+      "price": 50,
+      "image": "https://images.pexels.com/photos/743673/pexels-photo-743673.jpeg"
+    },
+    {
+      "name": "White Polo Shirt",
+      "description": "Classic white polo shirt with collar.",
+      "price": 25,
+      "image": "https://images.pexels.com/photos/775282/pexels-photo-775282.jpeg"
+    },
+    {
+      "name": "Brown Wool Coat",
+      "description": "Stylish brown wool coat for winter wear.",
+      "price": 70,
+      "image": "https://images.pexels.com/photos/936835/pexels-photo-936835.jpeg"
+    },
+    {
+      "name": "Gray Athletic Leggings",
+      "description": "Comfortable gray leggings for workouts.",
+      "price": 25,
+      "image": "https://images.pexels.com/photos/3758056/pexels-photo-3758056.jpeg"
+    },
+    {
+      "name": "Black Lace-Up Boots",
+      "description": "Classic black lace-up boots for winter.",
+      "price": 60,
+      "image": "https://images.pexels.com/photos/1734195/pexels-photo-1734195.jpeg"
+    },
+    {
+      "name": "White Denim Jacket",
+      "description": "Stylish white denim jacket for a casual look.",
+      "price": 45,
+      "image": "https://images.pexels.com/photos/998991/pexels-photo-998991.jpeg"
+    },
+    {
+      "name": "Pink Casual Dress",
+      "description": "Comfortable pink casual dress for everyday wear.",
+      "price": 30,
+      "image": "https://images.pexels.com/photos/2887767/pexels-photo-2887767.jpeg"
+    },
+    {
+      "name": "Beige Cargo Pants",
+      "description": "Trendy beige cargo pants with multiple pockets.",
+      "price": 35,
+      "image": "https://images.pexels.com/photos/3758056/pexels-photo-3758056.jpeg"
+    },
+    {
+      "name": "Brown Cowboy Hat",
+      "description": "Classic brown cowboy hat for a western look.",
+      "price": 25,
+      "image": "https://images.pexels.com/photos/301324/pexels-photo-301324.jpeg"
+    },
+    {
+      "name": "Yellow Leather Jacket",
+      "description": "Bright yellow leather jacket for bold style.",
+      "price": 65,
+      "image": "https://images.pexels.com/photos/2381069/pexels-photo-2381069.jpeg"
+    },
+    {
+      "name": "Pink Suede Loafers",
+      "description": "Comfortable pink suede loafers for casual outings.",
+      "price": 55,
+      "image": "https://images.pexels.com/photos/905106/pexels-photo-905106.jpeg"
+    },
+    {
+      "name": "Red Wool Scarf",
+      "description": "Warm red wool scarf for winter.",
+      "price": 22,
+      "image": "https://images.pexels.com/photos/412462/pexels-photo-412462.jpeg"
+    },
+    {
+      "name": "Gray Sweatshirt",
+      "description": "Cozy gray sweatshirt for everyday wear.",
+      "price": 28,
+      "image": "https://images.pexels.com/photos/775281/pexels-photo-775281.jpeg"
+    },
+    {
+      "name": "White Leather Backpack",
+      "description": "Trendy white leather backpack for a casual look.",
+      "price": 70,
+      "image": "https://images.pexels.com/photos/298864/pexels-photo-298864.jpeg"
+    },
+    {
+      "name": "Black Slip Dress",
+      "description": "Elegant black slip dress for evening events.",
+      "price": 45,
+      "image": "https://images.pexels.com/photos/1587046/pexels-photo-1587046.jpeg"
+    },
+    {
+      "name": "Beige Wool Sweater",
+      "description": "Warm beige wool sweater for colder days.",
+      "price": 32,
+      "image": "https://images.pexels.com/photos/775282/pexels-photo-775282.jpeg"
+    },
+    {
+      "name": "Red Velvet Blazer",
+      "description": "Luxurious red velvet blazer for a formal look.",
+      "price": 75,
+      "image": "https://images.pexels.com/photos/1587046/pexels-photo-1587046.jpeg"
+    }
+  ]
+}
