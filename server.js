@@ -4,7 +4,7 @@ const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 
 const PORT = 4000;
-const DELAY = 1000;
+const DELAY = 100;
 
 const validateEmail = (email) => {
   return String(email)
@@ -65,6 +65,14 @@ router.render = (req, res) => {
   if (req.method === "GET" && originalUrl === "/products" && data.length > 0) {
     data = data;
   }
+  if (
+    req.method === "GET" &&
+    originalUrl === "/bannerHome" &&
+    data.length > 0
+  ) {
+    data = data;
+  }
+
   res.jsonp(data);
 };
 
